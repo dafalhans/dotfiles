@@ -115,7 +115,7 @@ source $ZSH/oh-my-zsh.sh
 
 export GOVC_URL="172.16.0.2"
 export GOVC_USERNAME="hans.vandeweghe@lab.local"
-export GOVC_PASSWORD="rqVwicAEQnEFtvQZaHu7DLQw-g"
+export GOVC_PASSWORD="redacted"
 export GOVC_DATACENTER="LAB"
 export GOVC_DATASTORE="DATASTORE"
 export GOVC_INSECURE=1
